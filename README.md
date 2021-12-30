@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marvhil
-- 👀 I’m interested in educational apps
-- 🌱 I’m currently learning secondary science education
-- 💞️ I’m looking to collaborate on making concepts for eduucational apps
+- 👀 I’m interested in anything related to science
+- 🌱 I’m currently learning science education
+- 💞️ I’m looking to collaborate on making concepts for educational apps
 - 📫 How to reach me ... marvhill06@gmail.com
 
 <!---
